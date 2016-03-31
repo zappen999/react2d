@@ -1,0 +1,7 @@
+{
+  "esversion": 6,
+  "devel": true,
+  "globalstrict": true,
+  "expr": true,
+  "mocha": true
+}
